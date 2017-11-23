@@ -1,4 +1,4 @@
-# SharpestMinds Portfolio
+# Portfolio
 
 ###### Organized in ~descending order of cleanliness/successfulness
 
