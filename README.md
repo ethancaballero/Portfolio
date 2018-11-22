@@ -17,3 +17,5 @@ https://github.com/ethancaballero/neural-engineers-first-attempt
 https://github.com/ethancaballero/Skip-Thought_Memory_Networks
 
 https://github.com/ethancaballero/ENAS_GAN
+
+https://github.com/ethancaballero/cplusplus-cuda-mnist-neural-network
