@@ -12,8 +12,6 @@ https://github.com/ethancaballero/gait-cycle-transfer
 
 https://github.com/ethancaballero/paper-notes
 
-https://github.com/ethancaballero/Unity_ML_Agents__Multi_Agent__Model_vs_EnvRender__time_ratio__benchmark
-
 https://github.com/ethancaballero/neural-engineers-first-attempt
 
 https://github.com/ethancaballero/Skip-Thought_Memory_Networks
