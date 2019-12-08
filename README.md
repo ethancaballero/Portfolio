@@ -2,6 +2,8 @@
 
 ###### Organized in ~descending order of cleanliness/successfulness
 
+https://github.com/mila-iqia/myia/commits?author=ethancaballero
+
 https://github.com/ethancaballero/Improved-Dynamic-Memory-Networks-DMN-plus
 
 https://github.com/ethancaballero/split-screen-communication-learning
