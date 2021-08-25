@@ -6,7 +6,7 @@ https://github.com/mila-iqia/myia/commits?author=ethancaballero
 
 https://github.com/ethancaballero/Improved-Dynamic-Memory-Networks-DMN-plus
 
-https://github.com/ethancaballero/split-screen-communication-learning
+https://github.com/ethancaballero/multi-agent-reinforcement-learning-for-emergent-communication
 
 https://github.com/ethancaballero/Restricted_Boltzmann_Machine__RBM
 
